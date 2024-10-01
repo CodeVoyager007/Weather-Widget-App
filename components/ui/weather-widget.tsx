@@ -183,6 +183,7 @@ export default function WeatherWidget() {
                   <Line data={chartData} />
                 </div>
               )}
+              
             </>
           )}
         </CardContent>
